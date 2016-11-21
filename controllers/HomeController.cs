@@ -7,8 +7,6 @@ namespace tps_x.Controllers
     public IActionResult Index()
     { 
       return View();
-
-      //return Content("Hello World");
     }
   }
 }
